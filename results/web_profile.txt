@@ -1,0 +1,16 @@
+records: 45260
+distinct_os_name (empty value counted): 6
+records_without_city_name: 3339
+pct_without_city_name (denominator 45260 records): 7.38
+pct_ios_all (denominator 45260 records): 46.18
+pct_android_all (denominator 45260 records): 39.34
+pct_mobile_all (denominator 45260 records): 85.51
+records_with_known_os: 44655
+pct_ios_known_os (denominator 44655 records with OS): 46.80
+pct_android_known_os (denominator 44655 records with OS): 39.87
+pct_mobile_known_os (denominator 44655 records with OS): 86.67
+top_web_client_1: Mobile Safari (14879 records)
+top_web_client_2: Chrome Mobile (9668 records)
+top_web_client_3: Samsung Internet (6205 records)
+top_web_client_4: FacebookBot (4888 records)
+top_web_client_5: Other (2361 records)
