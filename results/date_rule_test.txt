@@ -1,0 +1,5 @@
+lignes testees : 2326
+lignes ou la regle donne une autre annee : 57
+  22 x Ligue 1 2019/2020, mois 10, annee source 2020 (regle : 2019)
+  30 x Ligue 1 2019/2020, mois 09, annee source 2020 (regle : 2019)
+  5 x Championnat D1 2007/2008, mois 08, annee source 2008 (regle : 2007)
