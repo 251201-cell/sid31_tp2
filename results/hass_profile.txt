@@ -1,0 +1,8 @@
+sentence_pairs: 3002
+distinct_english_sentences: 2985
+english_sentences_appearing_more_than_once: 16
+extra_rows (rows beyond the first of each repeated sentence): 17
+avg_words_per_english_sentence (denominator 3002 pairs): 6.06
+hassaniya_en_tokens_with_a_digit (occurrences): 5062
+top10_english_words (stoplist removed): t=261; your=217; do=193; s=188; me=181; are=165; what=158; that=156; have=155; can=149
+top10_hassaniya_en_tokens: mn=277; ma=164; v=120; 4e=117; chi=102; w=91; 3le=90; lahi=90; li=78; lehi=75
